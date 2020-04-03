@@ -1,0 +1,25 @@
+clearify:
+
+1)If i change the State will it affect the dom always.
+2)use of global variables in react.
+3)does setState always leads to render().
+4)what values should be in a state variable.
+
+No Global variables allowed
+Redux  - usage place ?
+Props - 
+
+App structure:
+
+1)functionalities should be accessible throughout the app and not to specific component. 
+this includes redux state and packages; (done)
+2)avoid using Global variables.(done)
+3)checking proptypes.(done)
+
+todo:
+1)export coordinates.(done)
+2)test cases.
+
+issue:1)rectangle is taking only 3 points.2)naming of shapes.
+
+

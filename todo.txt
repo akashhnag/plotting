@@ -1,0 +1,5 @@
+1) ajax call to a json file.(done)
+2) join the points.(done)
+3) assign classes and ids to every shape, points, lines.
+4) option to choose lines and square.(done)
+5) display marked points somewhere.

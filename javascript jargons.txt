@@ -1,0 +1,12 @@
+Javascript terms:
+
+1)Pure functions: a function that is expected to give exact result as the input. 
+this means won't take any external variables which can affect the result returned by the function.
+
+2)Side effects: change in result caused by change in an external variable in a function.
+
+3)Impure function: anything which is not a pure function is an impure function.
+
+4)Array destructuring:  [a,b]=[10,20], a=10,b=20.
+
+5)Object destructuring: const{shape}=shapeObj, where shapeObj={shape:'rectangle'} and now shape=rectangle
